@@ -6,6 +6,13 @@ Additionally, it can calculate the odds of you picking up other hands. For examp
 
 The program can also determine what hands are impossible to obtain. For example, if the river is shown and you only have a pair, it would be impossible to get a four-of-a-kind, and the program will report that.
 
+### Layout of Results
+```
+[Cards Identified]
+"Best Hand"
+{'Hand':'Odds', 'Hand':'Odds'}
+```
+
 ### Example of the model on the flop
 
 ![alt text](imgs/5cardtest.png)
