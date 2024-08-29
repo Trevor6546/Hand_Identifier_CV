@@ -1,4 +1,4 @@
-# poker-cv
+# Poker Hand Identifier and Odds Calculator
 
 This is a computer vision project that can detect the hand someone has and identify what the hand is (high card, pair, two pair, three of a kind, etc.)
 
