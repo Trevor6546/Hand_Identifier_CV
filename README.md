@@ -8,12 +8,12 @@ The program can also determine what hands are impossible to obtain. For example,
 
 ### Example of the model on the flop
 
-![alt text](imgs/5cardtest)
+![alt text](imgs/5cardtest.png)
 
 ### Example of the model on the turn
 
-![alt text](imgs/6cardtest)
+![alt text](imgs/6cardtest.png)
 
 ### Example of the model on the river
 
-![alt text](imgs/7cardtest)
+![alt text](imgs/7cardtest.png)
