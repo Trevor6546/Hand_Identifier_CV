@@ -26,3 +26,8 @@ The program utilizes a YoloV8 model to perform card detection. This model was tr
 ### Example of the model on the river
 
 ![alt text](imgs/7cardtest.png)
+
+
+### Future Updates
+- Be able to identify what hands are yours versus the community cards.
+- Calculate odds of winning with your current hand
